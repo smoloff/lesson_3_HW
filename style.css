@@ -38,6 +38,9 @@ main {
 .item {
   flex:1;  
   padding: 18px 0px;  
+  
+}
+.divider {
   border-bottom:2px solid black;
 }
 
